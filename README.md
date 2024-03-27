@@ -1,4 +1,4 @@
-<p style="display:flex; justify-content: center">
+<!-- <p style="display:flex; justify-content: center">
 
 </p>
 <p align="center">
@@ -37,17 +37,17 @@ TDesign Vue Next Starter is a TDesign-based developed with `Vue 3`, `Vite`, `Pin
 - Various space layouts
 - Mock data scheme
 
-### Usage
+### Usage -->
 
-> Initialize project with our CLI tool `tdesign-starter-cli` 
+<!-- > Initialize project with our CLI tool `tdesign-starter-cli`  -->
 
-```bash
+<!-- ```bash
 ## install tdesign-starter-cli
 npm i tdesign-starter-cli@latest -g
 
 ## create project
 td-starter init
-```
+``` -->
 
 ### Develop
 
@@ -70,7 +70,7 @@ npm run build:test
 ```
 
 
-### Contributing Guide
+<!-- ### Contributing Guide
 
 We welcome contributions to our project. Create your [Issue](https://github.com/tencent/tdesign-vue-next-starter/issues/new/choose) or Submit your [Pull Request](https://github.com/Tencent/tdesign-vue-next-starter/pulls).
 
@@ -87,7 +87,7 @@ We welcome contributions to our project. Create your [Issue](https://github.com/
 
 ### Community Versions
 
-There are kinds of community versions of starter-kit based on TDesign Vue Next, visit [community-link](https://tdesign.tencent.com/starter/docs/vue-next/community-link) for more detail. If you developed a community versions of tdesign starter, please create a issue or submit a pull request to let us know 😊.
+There are kinds of community versions of starter-kit based on TDesign Vue Next, visit [community-link](https://tdesign.tencent.com/starter/docs/vue-next/community-link) for more detail. If you developed a community versions of tdesign starter, please create a issue or submit a pull request to let us know 😊. -->
 
 ### License
 
